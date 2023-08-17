@@ -352,7 +352,7 @@ void crime::menu()
   cprintf("PROJECT MADE BY");
   gotoxy(3,21);
   textcolor(LIGHTMAGENTA);
-   cprintf("*Prachi Mittal*,*Tejal Mahur* , *Shikha Chaturvedi* , *Tejaswini Mahur*");
+   cprintf("*Prachi Mittal* , *Tejal Mahur* , *Shikha Chaturvedi* , *Tejaswini Mahur*");
  break;
 
  case 4:
